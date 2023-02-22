@@ -85,6 +85,13 @@
   <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="Hacktoberfest badge two" width="100px" height="100px">
   <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19&w=1920&q=75" alt="Hacktoberfest badge two" width="100px" height="100px">
   </p>
+  
+  <!--footer-->
+<p align="center"> 
+  Profile Views<br>
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
+</p>
+<!--footer-->
 
 
 
